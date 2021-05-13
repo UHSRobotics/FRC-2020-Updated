@@ -1,0 +1,28 @@
+{
+    "color": {
+        "blue": {
+            "r": 30,
+            "g": 100,
+            "b": 120
+        },
+        "green": {
+            "r": 40,
+            "g": 150,
+            "b": 65
+        },
+        "red": {
+            "r": 140,
+            "g": 80,
+            "b": 30
+        },
+        "yellow": {
+            "r": 80,
+            "g": 145,
+            "b": 30
+        }
+    },
+    "controller": {
+        "controllerPrecision": 1000,
+        "joystickDeadzone": 0.1
+    }
+}
